@@ -63,12 +63,12 @@ _Italica_
 
 3. [x] Tarea completada
 
-[WWW](https://hicharlesjewel.com/)
-[Linkedin](https://linkedin.com/in/hicharlesjewel/)
-[GitHub](https://github.com/hicharlesjewel/)
-[GitLab](https://gitlab.com/hicharlesjewel/)
-[Twitter](https://twitter.com/hicharlesjewel/)
-[Instagram](https://instagram.com/hicharlesjewel/)
-[TikTok](https://tiktok.com/@hicharlesjewel/)
-[YouTube](https://youtube.com/@hicharlesjewel/)
-[Twitch](https://twitch.com/hicharlesjewel/)
+- [WWW](https://hicharlesjewel.com/)
+- [Linkedin](https://linkedin.com/in/hicharlesjewel/)
+- [GitHub](https://github.com/hicharlesjewel/)
+- [GitLab](https://gitlab.com/hicharlesjewel/)
+- [Twitter](https://twitter.com/hicharlesjewel/)
+- [Instagram](https://instagram.com/hicharlesjewel/)
+- [TikTok](https://tiktok.com/@hicharlesjewel/)
+- [YouTube](https://youtube.com/@hicharlesjewel/)
+- [Twitch](https://twitch.com/hicharlesjewel/)
