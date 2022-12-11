@@ -30,11 +30,6 @@ _Italica_
 | Celda 1   | Celda 2   | Celda 3   |
 | Celda 4   | Celda 5   | Celda 6   |
 
-| Columna 1 | Columna 2 | Columna 3 |
-| --------- | --------- | --------- |
-| Celda 1   | Celda 2   | Celda 3   |
-| Celda 4   | Celda 5   | Celda 6   |
-
 > blockquote
 
 `Código`
@@ -55,9 +50,9 @@ _Italica_
 
 1. Lista ordenada
 
-[ ] Tarea pendiente
+- [ ] Tarea pendiente
 
-[x] Tarea completada
+- [x] Tarea completada
 
 - [WWW](https://hicharlesjewel.com/)
 - [Linkedin](https://linkedin.com/in/hicharlesjewel/)
