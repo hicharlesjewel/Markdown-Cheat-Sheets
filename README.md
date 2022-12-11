@@ -53,15 +53,11 @@ _Italica_
 
 - Lista desordenada
 
-- [ ] Tarea pendiente
-
-- [x] Tarea completada
-
 1. Lista ordenada
 
-2. [ ] Tarea pendiente
+[ ] Tarea pendiente
 
-3. [x] Tarea completada
+[x] Tarea completada
 
 - [WWW](https://hicharlesjewel.com/)
 - [Linkedin](https://linkedin.com/in/hicharlesjewel/)
