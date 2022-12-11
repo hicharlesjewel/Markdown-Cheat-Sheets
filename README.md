@@ -59,6 +59,10 @@ _Italica_
 
 1. Lista ordenada
 
+2. [ ] Tarea pendiente
+
+3. [x] Tarea completada
+
 [WWW](https://hicharlesjewel.com/)
 [Linkedin](https://linkedin.com/in/hicharlesjewel/)
 [GitHub](https://github.com/hicharlesjewel/)
